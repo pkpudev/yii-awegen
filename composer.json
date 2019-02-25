@@ -1,0 +1,10 @@
+{
+	"name": "pkpudev/yii-awegen",
+	"description": "Gii Awesome Generator",
+	"authors": [
+		{
+			"name": "Dipesh Acharya",
+			"email": "dipesh@awecode.com"
+		}
+	]
+}
