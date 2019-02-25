@@ -1,6 +1,11 @@
 {
 	"name": "pkpudev/yii-awegen",
 	"description": "Gii Awesome Generator",
+	"keywords": ["yii", "extension", "components", "widgets"],
+	"type": "yii-extension",
+	"require": {
+        "php": ">= 5.4"
+	},
 	"authors": [
 		{
 			"name": "Dipesh Acharya",
